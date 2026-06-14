@@ -45,7 +45,7 @@ def is_isomorphic(row_1, row_2):
     return True
   
 
-  print(is_isomorphic(s, t))
+print(is_isomorphic(s, t))
 
 '''
 Для решения использован словарь, который хранит соответствия между символами 
