@@ -17,7 +17,7 @@
 |------------------------------|----------------------------------|------------------------------------------------------------------------|
 | Effective Mobile Python Test | Python                           | Решены задачи на строки, массивы и факторизацию чисел                  |
 | TopFace Prolongation Analysis | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации, очистка данных, проверка бизнес-логики и подготовка отчётных CSV |
-| OctopusTech SPSS EEG Analysis | SPSS, SPSS syntax | Статистический анализ EEG-данных: baseline vs stimulus, t-test, Friedman test |
+| OctopusTech SPSS EEG Analysis | SPSS, Excel, statistics | Статистический анализ EEG-данных: baseline vs stimulus, t-test, Friedman test |
 | SQL Practice                 | SQL                              | Запросы с фильтрацией, группировкой, JOIN и оконными функциями         |
 
 ## Контекст
