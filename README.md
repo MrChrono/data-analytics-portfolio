@@ -1,2 +1,34 @@
-# data-analytics-portfolio
-Учебные и тестовые проекты по Python, SQL и аналитике данных: обработка данных, расчёт метрик, проверка решений и выводы.  Python, SQL and data analytics portfolio: test assignments, educational projects, data processing, metrics and analytical conclusions.
+# Data Analytics Portfolio
+Учебные и тестовые проекты по Python, SQL и аналитике данных: обработка данных, расчёт метрик, проверка решений и выводы.
+
+Python, SQL and data analytics portfolio: test assignments, educational projects, data processing, metrics and analytical conclusions.
+
+# Data Analytics Portfolio
+
+В этом репозитории собраны мои учебные и тестовые проекты по Python, SQL и аналитике данных.
+
+## Основной фокус
+
+- обработка и очистка данных;
+- решение алгоритмических задач на Python;
+- SQL-запросы;
+- расчёт метрик;
+- проверка корректности решений;
+- оформление выводов для принятия решений.
+
+## Проекты
+
+| Проект                       |   Инструменты                    | Что сделано                                                            |
+|------------------------------|----------------------------------|------------------------------------------------------------------------|
+| Effective Mobile Python Test | Python                           | Решены задачи на строки, массивы и факторизацию чисел                  |
+| Client Prolongation Analysis | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации, очистка данных, аналитические выводы |
+| SQL Practice                 | SQL                              | Запросы с фильтрацией, группировкой, JOIN и оконными функциями         |
+
+## Контекст
+
+Я развиваюсь в направлении аналитики данных и использую предыдущий опыт в прикладном поведенческом анализе и психологии, работе с клиентской динамикой, процессами и отчётностью как основу для перехода в data/bi/process analytics.
+
+## Контакты
+
+- Telegram: @MrChronos
+- Email: mr.e.anisimov@gmail.com
