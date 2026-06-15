@@ -15,7 +15,7 @@
 
 | Проект                       |   Инструменты                    | Что сделано                                                            |
 |------------------------------|----------------------------------|------------------------------------------------------------------------|
-| Effective Mobile Python Test | Python                           | Решены задачи на строки, массивы и факторизацию чисел                  |
+| Effective Mobile Data Analyst Test | Python, SQL, statistics, ML metrics | Решены задачи по вероятности, Python, SQL, A/B-тестам, ROC-AUC и корреляции |
 | TopFace Prolongation Analysis | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации, очистка данных, проверка бизнес-логики и подготовка отчётных CSV |
 | OctopusTech SPSS EEG Analysis | SPSS, Excel, statistics | Статистический анализ EEG-данных: baseline vs stimulus, t-test, Friedman test |
 | SQL Practice                 | SQL                              | Запросы с фильтрацией, группировкой, JOIN и оконными функциями         |
