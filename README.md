@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Учебные и тестовые проекты по Python, SQL, SPSS и аналитике данных: обработка данных, расчёт метрик, проверка решений и выводы.
+Учебные и тестовые проекты по Python, SQL, SPSS, Excel и аналитике данных: обработка данных, расчёт метрик, проверка решений и выводы.
 
 ## Основной фокус
 
@@ -18,6 +18,7 @@
 | Effective Mobile Data Analyst Test | Python, SQL, statistics, ML metrics | Решены задачи по вероятности, Python, SQL, A/B-тестам, ROC-AUC и корреляции |
 | TopFace Prolongation Analysis | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации, очистка данных, проверка бизнес-логики и подготовка отчётных CSV |
 | OctopusTech SPSS EEG Analysis | SPSS, Excel, statistics | Статистический анализ EEG-данных: baseline vs stimulus, t-test, Friedman test |
+| GBUZ GVV3 Excel Test | Excel, formulas, dynamic arrays | Решены задачи на уникальные значения, частоты, lookup, SUMIFS и преобразование плоской таблицы |
 | SQL Practice                 | SQL                              | Запросы с фильтрацией, группировкой, JOIN и оконными функциями         |
 
 ## Контекст
