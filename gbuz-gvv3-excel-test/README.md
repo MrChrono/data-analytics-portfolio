@@ -1,4 +1,4 @@
-# GBUZ GVV №3 DZM Excel Test Assignment
+# ГБУЗ ГВВ № 3 ДЗМ Excel Test Assignment
 
 ## Описание проекта
 
