@@ -15,6 +15,7 @@
 
 | Проект                       |   Инструменты                    | Что сделано                                                            |
 |------------------------------|----------------------------------|------------------------------------------------------------------------|
+| [Horse Colic Data Quality EDA](horse-colic-eda/) | Python, pandas, NumPy, SciPy, Matplotlib | Валидация категориальных кодов, анализ выбросов и пропусков, прозрачная групповая импутация |
 | Effective Mobile Data Analyst Test | Python, SQL, statistics, ML metrics | Решены задачи по вероятности, Python, SQL, A/B-тестам, ROC-AUC и корреляции |
 | TopFace Prolongation Analysis | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации, очистка данных, проверка бизнес-логики и подготовка отчётных CSV |
 | OctopusTech SPSS EEG Analysis | SPSS, Excel, statistics | Статистический анализ EEG-данных: baseline vs stimulus, t-test, Friedman test |
