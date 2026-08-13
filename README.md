@@ -15,6 +15,7 @@
 
 | Проект                       |   Инструменты                    | Что сделано                                                            |
 |------------------------------|----------------------------------|------------------------------------------------------------------------|
+| [Salary EDA](salary-eda/) | Python, pandas, Matplotlib, Seaborn, statsmodels | Очистка данных, анализ факторов зарплаты, OLS, сегментация верхнего дециля и анализ должностей |
 | [Horse Colic Data Quality EDA](horse-colic-eda/) | Python, pandas, NumPy, SciPy, Matplotlib | Валидация категориальных кодов, анализ выбросов и пропусков, прозрачная групповая импутация |
 | Effective Mobile Data Analyst Test | Python, SQL, statistics, ML metrics | Решены задачи по вероятности, Python, SQL, A/B-тестам, ROC-AUC и корреляции |
 | TopFace Prolongation Analysis | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации, очистка данных, проверка бизнес-логики и подготовка отчётных CSV |
