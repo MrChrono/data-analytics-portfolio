@@ -4,21 +4,22 @@
 
 ## Проекты
 
-| Проект | Стек | Кратко |
-|---|---|---|
-| [Salary EDA](./salary-eda/) | Python, pandas, Matplotlib, Seaborn, statsmodels | EDA зарплат, факторы дохода, OLS, анализ верхнего дециля |
-| [Horse Colic Data Quality EDA](./horse-colic-eda/) | Python, pandas, NumPy, SciPy, Matplotlib | Проверка качества данных, выбросы, пропуски, импутация |
-| [Effective Mobile Data Analyst Test](./effective-mobile/) | Python, SQL, statistics, ML metrics | Вероятность, Python, SQL, A/B-тесты, ROC-AUC, корреляция |
-| [TopFace Prolongation Analysis](./top-face/) | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации и проверка бизнес-логики |
-| [OctopusTech SPSS EEG Analysis](./octopustech-spss-eeg-analysis/) | SPSS, Excel, statistics | EEG-анализ: baseline vs stimulus, t-test, Friedman test |
-| [Excel Test Assignment](./gbuz-gvv3-excel-test/) | Excel, formulas, dynamic arrays | Уникальные значения, частоты, lookup, SUMIFS, преобразование таблицы |
+| Проект | О чём проект | Стек | Результат |
+|---|---|---|---|
+| [Salary EDA](./salary-eda/) | Анализ учебного датасета о зарплатах: очистка, распределения, факторы дохода, верхний зарплатный дециль | Python, pandas, Matplotlib, Seaborn, statsmodels | Подготовлена очищенная выборка, построены визуализации и OLS-модели, описан профиль верхних зарплат |
+| [Horse Colic Data Quality EDA](./horse-colic-eda/) | Проверка качества табличного датасета: коды категорий, пропуски, выбросы, стратегия заполнения | Python, pandas, NumPy, SciPy, Matplotlib | Сохранены все строки, исправлена ошибка кодирования, итоговая таблица приведена к состоянию без пропусков |
+| [Effective Mobile Data Analyst Test](./effective-mobile/) | Полное тестовое задание для аналитика: вероятность, Python, SQL, статистика, A/B-тесты и ML-метрики | Python, SQL, statistics, ML metrics | Оформлены решения с пояснениями, оценкой сложности, SQL-запросами и ручными расчётами метрик |
+| [TopFace Prolongation Analysis](./top-face/) | Анализ клиентских проектов и финансовых данных для расчёта пролонгаций по отделу, менеджерам и месяцам | Python, pandas, Jupyter Notebook, Excel | Рассчитаны коэффициенты пролонгации за 2023 год, найдены проблемные зоны и подготовлен Excel-отчёт |
+| [OctopusTech SPSS EEG Analysis](./octopustech-spss-eeg-analysis/) | Статистический анализ EEG-данных: сравнение baseline и stimulus по alpha, beta и theta | SPSS, Excel, statistics | Проверены гипотезы, описаны ограничения выборки, выделены стимулы с более выраженным откликом |
+| [Excel Test Assignment](./gbuz-gvv3-excel-test/) | Excel-тестовое: уникальные значения, частоты, поиск, дубликаты, диаграмма и преобразование таблицы | Excel, formulas, dynamic arrays | Подготовлен итоговый Excel-файл, нормализованная таблица и сопроводительное письмо с допущениями |
 
 ## Основные навыки
 
 - Python и pandas для анализа данных;
 - SQL для аналитических запросов;
 - Excel для расчётов, поиска, агрегации и преобразования таблиц;
-- статистика и проверка гипотез;
+- SPSS для статистического анализа исследовательских данных;
+- статистика, проверка гипотез и интерпретация результатов;
 - подготовка выводов для принятия решений.
 
 ## Контакты
