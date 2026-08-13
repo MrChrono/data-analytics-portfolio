@@ -1,31 +1,25 @@
 # Data Analytics Portfolio
 
-Учебные и тестовые проекты по Python, SQL, SPSS, Excel и аналитике данных: обработка данных, расчёт метрик, проверка решений и выводы.
-
-## Основной фокус
-
-- обработка и очистка данных;
-- решение алгоритмических задач на Python;
-- SQL-запросы;
-- расчёт метрик;
-- проверка корректности решений;
-- оформление выводов для принятия решений.
+Портфолио проектов по аналитике данных: Python, SQL, Excel, SPSS, статистика, очистка данных, расчёт метрик и аналитические выводы.
 
 ## Проекты
 
-| Проект                       |   Инструменты                    | Что сделано                                                            |
-|------------------------------|----------------------------------|------------------------------------------------------------------------|
-| [Salary EDA](salary-eda/) | Python, pandas, Matplotlib, Seaborn, statsmodels | Очистка данных, анализ факторов зарплаты, OLS, сегментация верхнего дециля и анализ должностей |
-| [Horse Colic Data Quality EDA](horse-colic-eda/) | Python, pandas, NumPy, SciPy, Matplotlib | Валидация категориальных кодов, анализ выбросов и пропусков, прозрачная групповая импутация |
-| Effective Mobile Data Analyst Test | Python, SQL, statistics, ML metrics | Решены задачи по вероятности, Python, SQL, A/B-тестам, ROC-AUC и корреляции |
-| TopFace Prolongation Analysis | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации, очистка данных, проверка бизнес-логики и подготовка отчётных CSV |
-| OctopusTech SPSS EEG Analysis | SPSS, Excel, statistics | Статистический анализ EEG-данных: baseline vs stimulus, t-test, Friedman test |
-| GBUZ GVV3 Excel Test | Excel, formulas, dynamic arrays | Решены задачи на уникальные значения, частоты, lookup, SUMIFS и преобразование плоской таблицы |
-| SQL Practice                 | SQL                              | Запросы с фильтрацией, группировкой, JOIN и оконными функциями         |
+| Проект | Стек | Кратко |
+|---|---|---|
+| [Salary EDA](./salary-eda/) | Python, pandas, Matplotlib, Seaborn, statsmodels | EDA зарплат, факторы дохода, OLS, анализ верхнего дециля |
+| [Horse Colic Data Quality EDA](./horse-colic-eda/) | Python, pandas, NumPy, SciPy, Matplotlib | Проверка качества данных, выбросы, пропуски, импутация |
+| [Effective Mobile Data Analyst Test](./effective-mobile/) | Python, SQL, statistics, ML metrics | Вероятность, Python, SQL, A/B-тесты, ROC-AUC, корреляция |
+| [TopFace Prolongation Analysis](./top-face/) | Python, pandas, Jupyter Notebook | Расчёт коэффициентов пролонгации и проверка бизнес-логики |
+| [OctopusTech SPSS EEG Analysis](./octopustech-spss-eeg-analysis/) | SPSS, Excel, statistics | EEG-анализ: baseline vs stimulus, t-test, Friedman test |
+| [Excel Test Assignment](./gbuz-gvv3-excel-test/) | Excel, formulas, dynamic arrays | Уникальные значения, частоты, lookup, SUMIFS, преобразование таблицы |
 
-## Контекст
+## Основные навыки
 
-Я развиваюсь в направлении аналитики данных и использую предыдущий опыт в прикладном поведенческом анализе и психологии, работе с клиентской динамикой, процессами и отчётностью как основу для перехода в data/bi/process analytics.
+- Python и pandas для анализа данных;
+- SQL для аналитических запросов;
+- Excel для расчётов, поиска, агрегации и преобразования таблиц;
+- статистика и проверка гипотез;
+- подготовка выводов для принятия решений.
 
 ## Контакты
 
